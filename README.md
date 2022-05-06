@@ -16,7 +16,7 @@
   <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   
-   ![Snake animation](https://github.com/BrunoD4niel/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/BrunoD4niel/BrunoD4niel/blob/output/github-contribution-grid-snake.svg)
 </div> 
   
   
