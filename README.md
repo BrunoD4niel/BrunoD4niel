@@ -1,4 +1,4 @@
-### OLÁ, MEU NOME É BRUNO DANIEL 
+### OLÁ, meu nome é Bruno Daniel
 
 
 - 📚 Atualmente estudo HTML, CSS e JavaScript
@@ -11,6 +11,6 @@
   <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  </div> 
   
