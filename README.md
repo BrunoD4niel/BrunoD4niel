@@ -2,13 +2,14 @@
 
 
 - 📚 Atualmente estudo HTML, CSS e JavaScript
-
-<a  href ="https://github.com/BrunoD4niel/github-readme-stats"> 
+<div>
+  <a  href ="https://github.com/BrunoD4niel/github-readme-stats"> 
   < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ?username=BrunoD4niel&repo=github-readme-stats " />
- </a> 
-<a  href =" https://github.com/BrunoD4niel/convoychat " > 
+  </a> 
+  <a  href =" https://github.com/BrunoD4niel/convoychat " > 
   < img  align =" center " src =" https://github -readme-stats.vercel.app/api/pin/?username=BrunoD4niel&repo=convoychat " />
- </ a>
+  </ a>
+ </div>
   <br>
 <div>
   
