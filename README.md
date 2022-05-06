@@ -1,7 +1,7 @@
 ### OLÁ, MEU NOME É BRUNO DANIEL 
 
 
-- 🌱 Atualmente estudo HTML, CSS e JavaScript
+- 📚 Atualmente estudo HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/BrunoD4niel">
