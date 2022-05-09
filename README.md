@@ -2,7 +2,7 @@
 
 
 - 📚 Atualmente estudo HTML, CSS e JavaScript
-<div align="center">
+- 
   
   <div align="center">
   
